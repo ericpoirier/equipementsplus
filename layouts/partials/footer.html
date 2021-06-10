@@ -1,0 +1,41 @@
+<footer class="l-footer" role="contentinfo">
+  <div class="footer">
+    <div class="row">
+      <div class="medium-6 columns medium-push-2 panel">
+        <section class="block block-block block-block-13">
+
+          <h2 class="block-title">{{ i18n "footer-contact-title"}}</h2>
+
+          <p>{{ i18n "footer-contact-address" | safeHTML }}</p>
+          <ul class="inline-list">
+            <li><i class="fa fa-phone">&nbsp;</i>{{ i18n "footer-contact-phone"}}</li>
+            <li><a class="fa fa-envelope" href="mailto:equiplus@videotron.ca">{{ i18n "footer-contact-email"}}</a></li>
+          </ul>
+          <hr>
+          <p>{{ i18n "footer-contact-hours"}}</p>
+        </section>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-menu">
+    <div class="row">
+      <div class="copyright medium-4 columns">
+        <p>© {{ dateFormat "2006" now }} {{ i18n "footer-copyrights"}}</p>
+      </div>
+      <div class="medium-8 columns">
+        <div id="footer-manu" class="navigation">
+          <ul id="main-menu-links" class="inline-list clearfix">
+            {{ range .Site.Menus.main }}
+              <li class="{{ .Pre }}">
+                <a href="{{.URL}}">
+                {{ .Name }}
+                </a>
+              </li>
+            {{end}}
+          </ul>
+        </div> <!-- /#main-menu -->
+      </div>
+    </div>
+  </div>
+</footer>

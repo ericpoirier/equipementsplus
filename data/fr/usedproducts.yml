@@ -1,0 +1,146 @@
+categories:
+  - name: "RÉFRIGÉRATION"
+    url: "/fr/used-products/refrigeration"
+  - name: "CUISSON"
+    url: "/fr/used-products/cooking"
+  - name: "PRÉPARATION"
+    url: "/fr/used-products/preparation"
+  - name: "ACIER INOXYDABLE"
+    url: "/fr/used-products/stainless-steel"
+  - name: "AUTRE"
+    url: "/fr/used-products/others"
+
+products:
+  refrigeration:
+  - name: Réfrigérateur 2 portes vitrées
+    category: REFRIGERATION
+    picture: /assets/images/used-products/1.jpg
+  - name: Réfrigérateur 2 portes acier inoxydable 
+    category: REFRIGERATION
+    picture: /assets/images/used-products/2.jpg
+  - name: Réfrigérateur 1 porte vitrée
+    category: REFRIGERATION
+    picture: /assets/images/used-products/3.jpg
+  - name: Réfrigérateur 1 porte vitrée
+    category: REFRIGERATION
+    picture: /assets/images/used-products/4.jpg
+  - name: Congélateur 2 portes vitrées
+    category: REFRIGERATION
+    picture: /assets/images/used-products/5.jpg
+  - name: Table de préparation à pizza
+    category: REFRIGERATION
+    picture: /assets/images/used-products/6.jpg
+  - name: Table de préparation à sandwich 48’’
+    category: REFRIGERATION
+    picture: /assets/images/used-products/7.jpg
+  - name: Table de préparation à sandwich 72’’
+    category: REFRIGERATION
+    picture: /assets/images/used-products/8.jpg
+  - name: Table de préparation réfrigérée 48’’
+    category: REFRIGERATION
+    picture: /assets/images/used-products/9.jpg
+  - name: Réfrigérateur de bar 60’’
+    category: REFRIGERATION
+    picture: /assets/images/used-products/10.jpg
+  - name: Chambre froide frigo/congélateur
+    category: REFRIGERATION
+    picture: /assets/images/used-products/11.jpg
+  - name: Présentoir réfrigéré
+    category: REFRIGERATION
+    picture: /assets/images/used-products/39.jpg
+  - name: Présentoir réfrigéré 72’’
+    category: REFRIGERATION
+    picture: /assets/images/used-products/40.jpg
+  - name: Four convection double
+    category: COOKING
+    picture: /assets/images/used-products/12.jpg
+  - name: Four convection
+    category: COOKING
+    picture: /assets/images/used-products/13.jpg
+  - name: Friteuse 
+    category: COOKING
+    picture: /assets/images/used-products/14.jpg
+  - name: Friteuse 
+    category: COOKING
+    picture: /assets/images/used-products/15.jpg
+  - name: Four 6 brûleurs
+    category: COOKING
+    picture: /assets/images/used-products/16.jpg
+  - name: Four 4 brûleurs
+    category: COOKING
+    picture: /assets/images/used-products/17.jpg
+  - name: Four 72’’, 6 brûleurs + plaque 36’’
+    category: COOKING
+    picture: /assets/images/used-products/18.jpg
+  - name: Grill 36’’
+    category: COOKING
+    picture: /assets/images/used-products/19.jpg
+  - name: Plaque 36’’
+    category: COOKING
+    picture: /assets/images/used-products/20.jpg
+  - name: Plaque 24’’
+    category: COOKING
+    picture: /assets/images/used-products/21.jpg
+  - name: Wok
+    category: COOKING
+    picture: /assets/images/used-products/22.jpg
+  - name: Four à pizza Blodgett
+    category: COOKING
+    picture: /assets/images/used-products/23.jpg
+  - name: Four à pizza double Bakers Pride
+    category: COOKING
+    picture: /assets/images/used-products/24.jpg
+  - name: Grill shawarma vertical
+    category: COOKING
+    picture: /assets/images/used-products/25.jpg
+  - name: Four à pizza convoyeur double
+    category: COOKING
+    picture: /assets/images/used-products/41.jpg
+  - name: Mélangeur 30 qt. Hobart
+    category: PREPARATION
+    picture: /assets/images/used-products/26.jpg
+  - name: Mélangeur 60 qt Hobart
+    category: PREPARATION
+    picture: /assets/images/used-products/27.jpg
+  - name: Scie à viande
+    category: PREPARATION
+    picture: /assets/images/used-products/28.jpg
+  - name: Grille-pain convoyeur
+    category: PREPARATION
+    picture: /assets/images/used-products/29.jpg
+  - name: Évier double
+    category: STAINLESS_STEEL
+    picture: /assets/images/used-products/30.jpg
+  - name: Évier triple
+    category: STAINLESS_STEEL
+    picture: /assets/images/used-products/31.jpg
+  - name: Table en acier inoxydable
+    category: STAINLESS_STEEL
+    picture: /assets/images/used-products/32.jpg
+  - name: Table en acier inoxydable
+    category: STAINLESS_STEEL
+    picture: /assets/images/used-products/33.jpg
+  - name: Hotte commerciale
+    category: STAINLESS_STEEL
+    picture: /assets/images/used-products/34.jpg
+  - name: Hotte commerciale
+    category: STAINLESS_STEEL
+    picture: /assets/images/used-products/35.jpg
+  - name: Réchaud à pizza
+    category: OTHERS
+    picture: /assets/images/used-products/36.jpg
+  - name: Lave-vaisselle sous-comptoir
+    category: OTHERS
+    picture: /assets/images/used-products/37.jpg
+  - name: Lave-vaisselle vertical
+    category: OTHERS
+    picture: /assets/images/used-products/38.jpg
+  - name: Machine à slush
+    category: OTHERS
+    picture: /assets/images/used-products/42.jpg
+  - name: Machine à crème glacée
+    category: OTHERS
+    picture: /assets/images/used-products/43.jpg
+  - name: Table chaude
+    category: OTHERS
+    picture: /assets/images/used-products/44.jpg

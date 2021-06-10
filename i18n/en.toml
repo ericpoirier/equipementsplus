@@ -1,0 +1,44 @@
+[nav-language-text]
+other = "Français"
+
+[nav-language-link]
+other = "/fr"
+
+[home-address]
+  other = "15 Fournier #7 boul., Gatineau (Qc.), J8X 3P1 | 819.503.7979"
+
+[home-page-intro-title]
+  other = "Welcome"
+
+[home-page-intro-text]
+  other = "For over a decade, <strong>Les Équipements Plus</strong> is committed to offer the best service and quality products for the <strong>restaurant</strong>, <strong>food</strong> and <strong>hotel</strong> industry in the <strong>Outaouais</strong> and <strong>Eastern Ontario</strong> region. Our showroom and warehouse of over 30 000 square feet are <strong>opened to everyone</strong>, offering you the largest inventory of new and used commercial equipment in the area. We respect our warranties and commitments, and our team will professionally guide you in order to realize all of your projects. Don't hesitate to contact or to come and see us in store. We will be more than happy to help you!"
+
+[home-page-cta-new-equipments-title]
+  other = "NEW EQUIPMENTS"
+
+[home-page-cta-new-equipments-button]
+  other = "<a class=\"button\" href=\"new-equipments\">Read More</a>"
+
+[home-page-cta-used-products-title]
+  other = "USED PRODUCTS"
+
+[home-page-cta-used-products-button]
+  other = "<a class=\"button\" href=\"used-products\">Read More</a>"
+
+[footer-contact-title]
+  other = "Contact Us"
+
+[footer-contact-address]
+  other = "15 Fournier #7 boul., Gatineau, Qc.&nbsp;<br>Canada, J8X 3P1"
+
+[footer-contact-phone]
+  other = "819.503.7979"
+
+[footer-contact-email]
+  other = "Send a message"
+
+[footer-contact-hours]
+  other = "Open Monday to Friday from 9AM to 4PM."
+
+[footer-copyrights]
+  other = "Equipments Plus All rights reserved."

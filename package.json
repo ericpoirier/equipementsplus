@@ -1,0 +1,33 @@
+{
+  "name": "equipementsplus",
+  "description": "equipementsplus",
+  "main": "webpack.min.js",
+  "author": "Eric Poirier",
+  "license": "MIT",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eclipsefdn/solstice-assets.git"
+  },
+  "scripts": {
+    "dev": "NODE_ENV=development webpack --progress --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "watch": "NODE_ENV=development webpack --watch --progress --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "hot": "NODE_ENV=development webpack-dev-server --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "production": "NODE_ENV=production webpack --progress --config=node_modules/laravel-mix/setup/webpack.config.js"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/plugin-syntax-class-properties": "^7.12.1",
+    "@babel/preset-env": "^7.12.11",
+    "@geedmo/yamm3": "^1.3.1",
+    "jquery": "^3.5.1",
+    "jquery-eclipsefdn-api": "0.0.46",
+    "jquery-match-height": "^0.7.2",
+    "laravel-mix": "^6.0.6",
+    "font-awesome": "^4.7.0",
+    "less": "^3.12.2",
+    "less-loader": "^7.2.1",
+    "postcss": "^8.2.2"
+  }
+}

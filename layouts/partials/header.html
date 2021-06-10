@@ -1,0 +1,35 @@
+<!-- 
+  Copyright (c) 2018 Eclipse Foundation, Inc.
+
+  This program and the accompanying materials are made available under the
+  terms of the Eclipse Public License v. 2.0 which is available at
+  http://www.eclipse.org/legal/epl-2.0.
+
+  Contributors:
+    Christopher Guindon <chris.guindon@eclipse-foundation.org>
+
+  SPDX-License-Identifier: EPL-2.0
+-->
+
+<div class="top">
+  <div class="row">
+    <div class="large-12 columns ">
+      <section class="block block-block block-block-1">
+        <p>{{ i18n "home-address" }}</p>
+      </section>
+      <section class="block block-fblikebutton block-fblikebutton-fblikebutton-static-block">
+        <iframe
+          src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Flocalhost%2Fequipementsplus&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;font=arial&amp;height=20&amp;action=like&amp;colorscheme=light&amp;locale=en_US&amp;send=false&amp;share=false"
+          scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 100px; height: 20px; "
+          allowtransparency="true"></iframe>
+      </section>
+    </div>
+  </div>
+</div>
+
+<a class="sr-only" href="#content">{{ i18n "navigation-content-skip" }}</a>
+<header
+  class="header-wrapper{{- with .Params.header_wrapper_class | default .Site.Params.header_wrapper_class }} {{ . }}{{end}}"
+  id="header-wrapper">
+  {{ partial "navbar.html" . }}
+</header>

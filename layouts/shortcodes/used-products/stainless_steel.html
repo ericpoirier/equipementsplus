@@ -1,0 +1,45 @@
+
+{{ .Scratch.Set "usedproducts" $.Site.Data.en.usedproducts.products }}
+{{ .Scratch.Set "categories" $.Site.Data.en.usedproducts.categories }}
+
+{{ $language := .Get 0 }}
+{{ if eq $language "fr" }}
+    {{ .Scratch.Set "usedproducts" $.Site.Data.fr.usedproducts.products }}
+    {{ .Scratch.Set "categories" $.Site.Data.fr.usedproducts.categories }}
+{{ end }}
+
+{{ $usedproducts := .Scratch.Get "usedproducts" }}
+{{ $categories := .Scratch.Get "categories" }}
+
+<main role="main" class="row l-main">
+    <div class="page-used-products">
+        <div class="medium-9 medium-push-3 main columns">
+            <ul class="medium-block-grid-3">
+                {{ range $index, $products := $usedproducts }}
+                    {{ range $products }}
+                        {{if eq .category "STAINLESS_STEEL"}}
+                        <li>
+                            <div class="views-row views-row-2 views-row-even">
+                                <h2>{{.name}}</h2>
+                                <img typeof="foaf:Image" src="{{.picture}}" alt="{{.name}}">
+                            </div>
+                        </li>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            </ul>
+        </div>
+
+        <aside role="complementary" class="medium-3 medium-pull-9 sidebar-first columns sidebar">
+            <section class="block block-menu block-menu-menu-used-products-menu clearfix">
+                <h2 class="block-title">Categories</h2>
+                <ul class="menu">
+                    {{ range $categories }}
+                        <li class="first leaf"><a href="{{ .url }}" title="">{{ .name }}</a></li>
+                    {{ end }}
+                </ul>
+            </section>
+        </aside>
+
+    </div>
+</main>
