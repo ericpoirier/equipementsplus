@@ -1,3 +1,80 @@
-baseURL = "https://nerdyx99.github.io/equipementsplus/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "http://equipementsplus.com/"
+DefaultContentLanguage = "en"
+title = "Equipments Plus"
+metaDataFormat = "yaml"
+disableKinds = []
+enableRobotsTXT = true
+pluralizeListTitles = false
+
+[Params]
+  description = "Equipments Plus"
+  keywords = ["Equipements Plus"]
+  logo = "assets/images/logo.png"
+  styles = "css/styles.css"
+  favicon = "assets/images/favicon.png"
+  logo_width = "168"
+  
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[Author]
+  name = "Eric Poirier"
+  website = "http://equipementsplus.com/"
+  email = "epoirier99@gmail.com"
+
+[permalinks]
+  news = "/:sections/:year/:month/:day/:slug/"
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
+
+[languages]
+  [languages.en]
+	languageName = "English"
+	weight =  1  
+  title = "Equipments Plus"
+
+  [[languages.en.menu.main]]
+		name = "Home"
+    url = "/"
+    weight = 1
+  
+  [[languages.en.menu.main]]
+		name = "Used Products"
+    url = "/used-products"
+    weight = 2
+
+	[[languages.en.menu.main]]
+		name = "New Equipments"
+    url = "/new-equipments"
+    pre = "last"
+    weight = 3
+
+  [languages.fr]
+	languageName = "Français"
+	weight =  2
+	title = "Les Équipements Plus"
+	
+	[languages.fr.params]
+	  description = "Les Équipements Plus"
+	  subtitle = "Les Équipements Plus"
+	  keywords = ["Les Équipements Plus"]
+	
+	[[languages.fr.menu.main]]
+		name = "ACCUEIL"
+		url = "/fr/used-products/"
+		weight = 1
+  
+  [[languages.fr.menu.main]]
+		name = "PRODUITS USAGÉS"
+		url = "/fr/used-products/"
+		weight = 10
+
+	[[languages.fr.menu.main]]
+		name = "NOUVEAUX EQUIPEMENTS"
+		url = "/fr/new-equipments/"
+    pre = "last"
+		weight = 20
