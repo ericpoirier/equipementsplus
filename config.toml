@@ -1,4 +1,4 @@
-baseurl = "http://equipementsplus.com/"
+baseurl = "https://ericpoirier.github.io/equipementsplus-gh-pages-public/"
 DefaultContentLanguage = "en"
 title = "Equipments Plus"
 metaDataFormat = "yaml"

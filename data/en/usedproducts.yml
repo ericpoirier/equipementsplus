@@ -1,146 +1,146 @@
 categories:
   - name: "REFRIGERATION"
-    url: "/used-products/refrigeration"
+    url: "/equipementsplus-gh-pages-public/used-products/refrigeration"
   - name: "COOKING"
-    url: "/used-products/cooking"
+    url: "/equipementsplus-gh-pages-public/used-products/cooking"
   - name: "PREPARATION"
-    url: "/used-products/preparation"
+    url: "/equipementsplus-gh-pages-public/used-products/preparation"
   - name: "STAINLESS STEEL"
-    url: "/used-products/stainless-steel"
+    url: "/equipementsplus-gh-pages-public/used-products/stainless-steel"
   - name: "OTHERS"
-    url: "/used-products/others"
+    url: "/equipementsplus-gh-pages-public/used-products/others"
 
 products:
   refrigeration:
   - name: Double glass door refrigerator
     category: REFRIGERATION
-    picture: /assets/images/used-products/1.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/1.jpg
   - name: Double stainless steel door refrigerator
     category: REFRIGERATION
-    picture: /assets/images/used-products/2.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/2.jpg
   - name: Single glass door fridge
     category: REFRIGERATION
-    picture: /assets/images/used-products/3.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/3.jpg
   - name: Single glass door fridge
     category: REFRIGERATION
-    picture: /assets/images/used-products/4.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/4.jpg
   - name: Double glass door freezer
     category: REFRIGERATION
-    picture: /assets/images/used-products/5.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/5.jpg
   - name: Pizza preparation table
     category: REFRIGERATION
-    picture: /assets/images/used-products/6.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/6.jpg
   - name: 48'' sandwich preparation table
     category: REFRIGERATION
-    picture: /assets/images/used-products/7.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/7.jpg
   - name: 72'' sandwich preparation table
     category: REFRIGERATION
-    picture: /assets/images/used-products/8.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/8.jpg
   - name: 48'' counter preparation table
     category: REFRIGERATION
-    picture: /assets/images/used-products/9.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/9.jpg
   - name: 60'' backbar fridge
     category: REFRIGERATION
-    picture: /assets/images/used-products/10.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/10.jpg
   - name: Walk-in cooler/freezer
     category: REFRIGERATION
-    picture: /assets/images/used-products/11.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/11.jpg
   - name: Refrigerated showcase 
     category: REFRIGERATION
-    picture: /assets/images/used-products/39.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/39.jpg
   - name: Refrigerated showcase 72''
     category: REFRIGERATION
-    picture: /assets/images/used-products/40.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/40.jpg
   - name: Double stack convection oven
     category: COOKING
-    picture: /assets/images/used-products/12.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/12.jpg
   - name: Convection oven
     category: COOKING
-    picture: /assets/images/used-products/13.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/13.jpg
   - name: Fryer 
     category: COOKING
-    picture: /assets/images/used-products/14.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/14.jpg
   - name: Fryer 
     category: COOKING
-    picture: /assets/images/used-products/15.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/15.jpg
   - name: 6-burner range 
     category: COOKING
-    picture: /assets/images/used-products/16.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/16.jpg
   - name: 4-burner range
     category: COOKING
-    picture: /assets/images/used-products/17.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/17.jpg
   - name: 72’’ range, 6 burners + 36’’ griddle
     category: COOKING
-    picture: /assets/images/used-products/18.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/18.jpg
   - name: 36’’ radiant broiler
     category: COOKING
-    picture: /assets/images/used-products/19.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/19.jpg
   - name: 36’’ griddle
     category: COOKING
-    picture: /assets/images/used-products/20.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/20.jpg
   - name: 24’’ griddle
     category: COOKING
-    picture: /assets/images/used-products/21.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/21.jpg
   - name: Wok range
     category: COOKING
-    picture: /assets/images/used-products/22.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/22.jpg
   - name: Blodgett pizza oven
     category: COOKING
-    picture: /assets/images/used-products/23.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/23.jpg
   - name: Bakers Pride double stack pizza oven
     category: COOKING
-    picture: /assets/images/used-products/24.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/24.jpg
   - name: Vertical shawarma broiler
     category: COOKING
-    picture: /assets/images/used-products/25.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/25.jpg
   - name: Double stack conveyor pizza ovens
     category: COOKING
-    picture: /assets/images/used-products/41.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/41.jpg
   - name: 30 qt. Hobart mixer
     category: PREPARATION
-    picture: /assets/images/used-products/26.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/26.jpg
   - name: 60 qt. Hobart mixer
     category: PREPARATION
-    picture: /assets/images/used-products/27.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/27.jpg
   - name: Meat saw
     category: PREPARATION
-    picture: /assets/images/used-products/28.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/28.jpg
   - name: Conveyor toaster
     category: PREPARATION
-    picture: /assets/images/used-products/29.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/29.jpg
   - name: Double sink
     category: STAINLESS_STEEL
-    picture: /assets/images/used-products/30.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/30.jpg
   - name: Triple sink
     category: STAINLESS_STEEL
-    picture: /assets/images/used-products/31.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/31.jpg
   - name: Stainless steel table
     category: STAINLESS_STEEL
-    picture: /assets/images/used-products/32.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/32.jpg
   - name: Stainless steel table
     category: STAINLESS_STEEL
-    picture: /assets/images/used-products/33.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/33.jpg
   - name: Commercial hood
     category: STAINLESS_STEEL
-    picture: /assets/images/used-products/34.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/34.jpg
   - name: Commercial hood
     category: STAINLESS_STEEL
-    picture: /assets/images/used-products/35.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/35.jpg
   - name: Pizza warmer
     category: OTHERS
-    picture: /assets/images/used-products/36.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/36.jpg
   - name: Undercounter dishwasher
     category: OTHERS
-    picture: /assets/images/used-products/37.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/37.jpg
   - name: Standup dishwasher
     category: OTHERS
-    picture: /assets/images/used-products/38.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/38.jpg
   - name: Slush machine
     category: OTHERS
-    picture: /assets/images/used-products/42.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/42.jpg
   - name: Ice cream machine
     category: OTHERS
-    picture: /assets/images/used-products/43.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/43.jpg
   - name: Steam table
     category: OTHERS
-    picture: /assets/images/used-products/44.jpg
+    picture: /equipementsplus-gh-pages-public/assets/images/used-products/44.jpg
