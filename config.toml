@@ -1,4 +1,4 @@
-baseurl = "http://equipementsplus.com/"
+baseurl = "http://equipementsplus.com/equipementsplus"
 DefaultContentLanguage = "en"
 title = "Equipments Plus"
 metaDataFormat = "yaml"
