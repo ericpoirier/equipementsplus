@@ -5,7 +5,7 @@ other = "English"
 other = "/"
 
 [home-address]
-  other = "15 boul. Fournier #7 Gatineau (Qc.) J8X 3P1 | 819.503.7979"
+  other = "15 boul. Fournier unité 6, Gatineau (Qc.) J8X 3P1 | 819.503.7979"
 
 [home-page-intro-title]
   other = "BIENVENUE"
@@ -14,13 +14,13 @@ other = "/"
   other = "Depuis plus d'une douzaine d'années, toute l'équipe de <strong>Les Équipements Plus </strong>s'engage à offrir le meilleur service et des produits de qualité à l'industrie de la <strong>restauration</strong>, de <strong>l'alimentation</strong> et de <strong>l'hôtellerie</strong> dans la région de <strong>l'Outaouais</strong> et <strong>l'est de l'Ontario</strong>. Notre salle de montre et notre entrepôt de plus de 30 000 pieds carrée sont <strong>ouverts à tous </strong>pour vous offrir le plus grand inventaire d'équipement commercial neuf et usagé de la région. Nous respectons nos garanties et nos engagements, et notre équipe de professionnels saura vous guider dans la réalisation de tous vos projets, petits et grands. N'hésitez pas à nous contacter ou à venir nous voir en magasin. Au plaisir de vous servir!"
   
 [home-page-cta-new-equipments-title]
-  other = "NOUVEAUX ÉQUIPEMENTS"
+  other = "Équipement neuf"
 
 [home-page-cta-new-equipments-button]
   other = "<a class=\"button\" href=\"/fr/new-equipments\">En savoir plus</a>"
 
 [home-page-cta-used-products-title]
-  other = "PRODUITS USAGÉS"
+  other = "Équipement usagé"
 
 [home-page-cta-used-products-button]
   other = "<a class=\"button\" href=\"/fr/used-products\">En savoir plus</a>"

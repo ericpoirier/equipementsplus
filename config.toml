@@ -1,4 +1,4 @@
-baseurl = "equipementsplus.org"
+baseurl = "https://ericpoirier.ca"
 DefaultContentLanguage = "en"
 title = "Equipments Plus"
 metaDataFormat = "yaml"
@@ -43,15 +43,20 @@ pluralizeListTitles = false
     weight = 1
   
   [[languages.en.menu.main]]
-		name = "Used Products"
-    url = "/used-products"
+		name = "Used Equipment"
+    url = "/used-equipment"
     weight = 2
 
 	[[languages.en.menu.main]]
-		name = "New Equipments"
-    url = "/new-equipments"
-    pre = "last"
+		name = "New Equipment"
+    url = "/new-equipment"
     weight = 3
+
+	[[languages.en.menu.main]]
+		name = "Sell"
+    url = "/sell"
+    pre = "last"
+    weight = 4
 
   [languages.fr]
 	languageName = "Français"
@@ -65,16 +70,21 @@ pluralizeListTitles = false
 	
 	[[languages.fr.menu.main]]
 		name = "ACCUEIL"
-		url = "/fr/used-products/"
+		url = "/fr"
 		weight = 1
   
   [[languages.fr.menu.main]]
-		name = "PRODUITS USAGÉS"
-		url = "/fr/used-products/"
+		name = "Équipement usagé"
+		url = "/fr/used-equipment/"
 		weight = 10
 
 	[[languages.fr.menu.main]]
-		name = "NOUVEAUX EQUIPEMENTS"
-		url = "/fr/new-equipments/"
-    pre = "last"
+		name = "Équipement neuf"
+		url = "/fr/new-equipment/"
 		weight = 20
+
+	[[languages.fr.menu.main]]
+		name = "Vendre"
+		url = "/fr/sell/"
+    pre = "last"
+		weight = 30

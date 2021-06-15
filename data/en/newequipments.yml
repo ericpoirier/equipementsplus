@@ -119,3 +119,13 @@ items:
         - name: "CMA"
           image: "/assets/images/new-equipments/other/cma.png"
           url: "https://www.cmadishmachines.com/"
+  omcan:
+    - name: "OMCAN"
+      image: "/assets/images/new-equipments/omcan/omcan.png"
+      url: "https://omcan.com/"
+      items:
+  rational:
+    - name: "Rational"
+      image: "/assets/images/new-equipments/rational/rational.png"
+      url: "https://www.rational-online.com/"
+      items:
