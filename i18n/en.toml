@@ -5,7 +5,7 @@ other = "Français"
 other = "/fr"
 
 [home-address]
-  other = "15 Fournier #7 bld., Gatineau (Qc.), J8X 3P1 | 819.503.7979"
+  other = "15 Fournier #6 bld., Gatineau (Qc.), J8X 3P1 | 819.503.7979"
 
 [home-page-intro-title]
   other = "Welcome"
@@ -17,7 +17,7 @@ other = "/fr"
   other = "New Equipment"
 
 [home-page-cta-new-equipments-button]
-  other = "<a class=\"button\" href=\"new-equipments\">Read More</a>"
+  other = "<a class=\"button\" href=\"new-equipment\">Read More</a>"
 
 [home-page-cta-used-products-title]
   other = "Used Equipment"
@@ -29,7 +29,7 @@ other = "/fr"
   other = "Contact Us"
 
 [footer-contact-address]
-  other = "15 Fournier #7 boul., Gatineau, Qc.&nbsp;<br>Canada, J8X 3P1"
+  other = "15 Fournier #6 boul., Gatineau, Qc.&nbsp;<br>Canada, J8X 3P1"
 
 [footer-contact-phone]
   other = "819.503.7979"

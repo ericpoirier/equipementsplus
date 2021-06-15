@@ -17,7 +17,7 @@ other = "/"
   other = "Équipement neuf"
 
 [home-page-cta-new-equipments-button]
-  other = "<a class=\"button\" href=\"/fr/new-equipments\">En savoir plus</a>"
+  other = "<a class=\"button\" href=\"/fr/new-equipment\">En savoir plus</a>"
 
 [home-page-cta-used-products-title]
   other = "Équipement usagé"
