@@ -1,4 +1,4 @@
-baseurl = "https://ericpoirier.ca"
+baseurl = "https://equipmentsplus.com"
 DefaultContentLanguage = "en"
 title = "Equipments Plus"
 metaDataFormat = "yaml"
@@ -19,9 +19,9 @@ pluralizeListTitles = false
   tag = "tags"
 
 [Author]
-  name = "Eric Poirier"
-  website = "http://equipementsplus.com/"
-  email = "epoirier99@gmail.com"
+  name = "Equipments Plus"
+  website = "http://equipmentsplus.com/"
+  email = "equiplus@videotron.ca"
 
 [permalinks]
   news = "/:sections/:year/:month/:day/:slug/"
