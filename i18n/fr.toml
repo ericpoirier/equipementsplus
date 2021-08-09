@@ -38,7 +38,7 @@ other = "/"
   other = "Envoyer un message"
 
 [footer-contact-hours]
-  other = "Ouvert du lundi au vendredi de 9h à 16h."
+  other = "Ouvert du lundi au vendredi de 9h à 16:30h."
 
 [footer-copyrights]
   other = "Équipements Plus Tous les droits sont réservés."
