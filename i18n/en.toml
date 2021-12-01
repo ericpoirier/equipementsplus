@@ -23,7 +23,7 @@ other = "/fr"
   other = "Used Equipment"
 
 [home-page-cta-used-products-button]
-  other = "<a class=\"button\" href=\"used-products\">Read More</a>"
+  other = "<a class=\"button\" href=\"used-equipment\">Read More</a>"
 
 [footer-contact-title]
   other = "Contact Us"
